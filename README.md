@@ -25,3 +25,6 @@ LLaVA (7B
 Gemma (2B, 7B)
 
 Solar (10.7B)
+
+
+I had run mistral and deepseek-r1 in command prompt on my computer.
